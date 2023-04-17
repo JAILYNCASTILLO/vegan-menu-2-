@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+ .g1{border:20px double #D8D0C1;
+   padding:5px;
+   margin:30px;}
+
+body {
+  background-color:#EDE6E3;
+}
+
+
+.g1{text-align: center;}
+
+.g1 { font-family: "Brush Script MT";  }
+.g1 {font-size: 100px;}
+.m4 {font-family: "Brush Script MT";  }
+.m4  {font-size: 30px;}
+.m4{text-align: center;}
+
+.f1 {text-align: center;}
+
+.f1{font-family: "Brush Script MT";  }
+.f1 {font-size: 30px;}
+.D1 {text-align: center;}
+.D1 {font-family: "Brush Script MT";  }
+.D1{font-size: 30px;}
+h1 {font-size: 20px;}
+.k1{font-family: "Times New Roman";}
+.k1 {font-size:20px;}
+.k1{font-weight: bold;}
+/* #DADAD9 */
+
